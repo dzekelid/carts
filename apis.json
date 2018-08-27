@@ -1,0 +1,128 @@
+{
+	"name": "Streadata.io API Gallery - Carts",
+	"description": "This is a repository of carts APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/carts.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://carts.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Reverb",
+			"x-api-slug": "reverb",
+			"description": "Reverb&#8217;s mission is to connect people with meaningful content.Reverb was created to find and connect the rich associations between words, ideas, content, and people. Through our products, we enhance broader knowledge around favorite topics by surfacing interesting information readers might not uncover on their own. We make tools for content understanding at every level from the single word on up. Wordnik: Get a full view of any word you???re interested in, with definitions, example sentences, related words, tweets from Twitter, pictures from Flickr, and much more.Reverb for Publishers: Reverb for Publishers brings relevant content to web audiences and surfaces additional content for publishers.Reverb for Developers: Reverb is committed to the open-source community and is proudly contributing infrastructure software to power applications and enterprises both small and gigantic. Our involvement with the Wordnik API, Scalatra, Swagger and Atmosphere is detailed on our site.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/145_logo.png",
+			"humanURL": "https://helloreverb.com/app",
+			"baseURL": "https://api.reverb.com//api",
+			"tags": "Carts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/carts/master/_listings/reverb/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "moltin",
+			"x-api-slug": "moltin",
+			"description": "The comprehensive eCommerce API infrastructure for any platform. Moltin handles data storage and eCommerce logic in the cloud so that you can focus on creating great customer experiences.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/moltin-logo.png",
+			"humanURL": "https://moltin.com",
+			"baseURL": "https://api.moltin.com//",
+			"tags": "Carts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/carts/master/_listings/moltin/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "FoxyCart",
+			"x-api-slug": "foxycart",
+			"description": "FoxyCart is a hosted PCI compliant e-commerce platform built to empower web developers and designers with a powerful and flexible platform with which to add e-commerce functionality to existing systems. Its not an all-in-one system with an integrated CMS, CRM, email marketing system, or anything else. Weve chosen flexibility over bloat, power over features, and built the most flexible and streamlined cart and checkout system available.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/6339-foxycart.jpg",
+			"humanURL": "https://www.foxy.io/",
+			"baseURL": "https:///",
+			"tags": "Carts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/carts/master/_listings/foxycart/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Digital River",
+			"x-api-slug": "digital-river",
+			"description": "Digital Riveris a public company that provides global ecommerce, payments and marketing services. In 2013, Digital River processed more than $30 billion in online transactions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DigitalRiver_corp_logo_4c2.png",
+			"humanURL": "https://digitalriver.com",
+			"baseURL": "https://store.digitalriver.com//store/{mysite}",
+			"tags": "Carts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/carts/master/_listings/digital-river/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "3dcart",
+			"x-api-slug": "3dcart",
+			"description": "The 3dcart shopping cart software is a complete web store solution for anyone looking to start an online business, add a shopping cart to their existing website, or to replace their existing shopping cart platform. 3dcart includes the latest, most innovative features, tools, support and technology needed to build, promote and grow your online business.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21488-www-3dcart-com.jpg",
+			"humanURL": "http://www.3dcart.com",
+			"baseURL": "https://apirest.3dcart.com//",
+			"tags": "Carts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/carts/master/_listings/3dcart/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Broadleaf Commerce",
+			"x-api-slug": "broadleaf-commerce",
+			"description": "Broadleaf Commerce is a software technology company headquartered in Dallas, Texas, providing an open source Java eCommerce platform based on Spring Framework.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28889-www-broadleafcommerce-com.jpg",
+			"humanURL": "https://www.broadleafcommerce.com",
+			"baseURL": "https://demo.broadleafcommerce.org//api/v1",
+			"tags": "Carts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/carts/master/_listings/broadleaf-commerce/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Carts",
+	"include": [
+		{
+			"name": "Reverb",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/carts/master/_listings/reverb/apis.yaml"
+		},
+		{
+			"name": "moltin",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/carts/master/_listings/moltin/apis.yaml"
+		},
+		{
+			"name": "FoxyCart",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/carts/master/_listings/foxycart/apis.yaml"
+		},
+		{
+			"name": "Digital River",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/carts/master/_listings/digital-river/apis.yaml"
+		},
+		{
+			"name": "3dcart",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/carts/master/_listings/3dcart/apis.yaml"
+		},
+		{
+			"name": "Broadleaf Commerce",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/carts/master/_listings/broadleaf-commerce/apis.yaml"
+		}
+	]
+}
